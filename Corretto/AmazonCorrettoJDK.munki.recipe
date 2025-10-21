@@ -48,7 +48,9 @@
                         <key>version</key>
                         <string>%version%</string>
                         <key>supported_architectures</key>
-                        <string>%supported_architectures%</string>
+                        <array>
+                            <string>%supported_architectures%</string>
+                        </array>
                     </dict>
                 </dict>
                 <key>Processor</key>
